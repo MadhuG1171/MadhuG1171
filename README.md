@@ -1,6 +1,6 @@
 # Hi there, I'm Madhu G :wave:
 
-I'm a DevOps engineer with 2+ years of experience in the field of cloud computing and software development.
+I'm a DevOps engineer with 3+ years of experience in the field of cloud computing and software development.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/madhu-g1171/)](https://www.linkedin.com/in/madhu-g1171/)
 
@@ -35,7 +35,7 @@ Here are some of the skills I've developed over the years:
 
 ### DevOps Engineer at Sonata Software Solutions Ltd
 
-#### January 2020 - Present | Bangalore, India
+#### January 2021 - Present | Bangalore, India
 
 - Analyzing Client’s Multiple environments for implementation.
 - Migrated project repositories from SVN to GitLab.
